@@ -13,4 +13,4 @@ To reproduce the simulation results in the paper, run enee_sims_exp.R and enee_s
 
 ## References
 
-Segal, Brian D. and Tan, W. Katherine (2020). A note on the amount of information borrowed from external data in hybrid controlled trials with time-to-event outcomes. [https://arxiv.org/abs/2010.00433](https://arxiv.org/abs/2010.00433).
+Segal, B. D., Tan, W. K. (2020). A note on the amount of information borrowed from external data in hybrid controlled trials with time-to-event outcomes. [https://arxiv.org/abs/2010.00433](https://arxiv.org/abs/2010.00433).
